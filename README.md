@@ -1,4 +1,4 @@
-# Livewire projects for beginners
+# Task Management using Laravel Livewire
 
 ## Installation
 
